@@ -1,0 +1,3 @@
+Game.Notify("Hooray", "Modpack loaded", [0, 0], 30, true);
+Game.LoadMod("https://darksoul1800.github.io/DarkysBatch/Darkys_Achievement_Package.js");
+Game.LoadMod("https://mtarnuhal.github.io/FrozenCookies/frozen_cookies.js");
